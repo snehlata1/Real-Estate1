@@ -133,7 +133,7 @@ header {width: 100%;background:#03038a;}
 /********categories********/
 .categories {padding: 80px 0;background-image:url("../images/cat-banner.png")}
 .categories form {display: flex;flex-wrap: wrap;}
-.categories form  input, .categories form .btn.btn-danger {width: 23% !important;margin:1%;display:inline-block;font-family: 'HelveticaNeue';padding:5px !important;}
+.categories form  input, .categories form .btn.btn-danger {border: 1px solid #e6e6e6;width: 23% !important;margin:1%;display:inline-block;font-family: 'HelveticaNeue';padding:5px !important;}
 /*****footer**********/
 footer{background:#000080;padding:80px 0;font-family: 'HelveticaNeue';}
 .foter-logo, .foter-form, .foter-ul ul li a, .foter-ul {color: white;}
